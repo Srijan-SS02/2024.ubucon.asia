@@ -99,19 +99,6 @@ Some tips to help you navigate the visa form:
 - Designation refers to a job title.
 - Prepare a square photograph, interface will make you crop out a square from it.
 
-### Conference Details:
-
-- Name of the conference: DebConf
-- Start Date: //2024
-- End Date: //2024
-- Address: Infopark Park Centre, Kakkanad, Kochi
-- State: Kerala
-- District: Ernakulam
-- Pincode: 682042
-- Name of Organizer: InfoPark Kochi
-- Address: Infopark Park Centre, Kakkanad, 682042, Kerala
-- Phone No: +91 484 2415217
-- Email Id: info@infopark.in
 
 ### Reference:
 The visa team will provide the contact address of a local team member to be used as a reference along with invitation letter and political clearance from MEA.
